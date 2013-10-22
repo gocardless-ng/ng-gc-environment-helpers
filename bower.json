@@ -20,5 +20,8 @@
     "package.json",
     "Gruntfile.js",
     "karma.conf.js"
-  ]
+  ],
+  "resolutions": {
+    "bower-angular": "v1.2.0-rc.3"
+  }
 }
