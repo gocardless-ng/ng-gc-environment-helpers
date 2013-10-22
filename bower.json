@@ -14,11 +14,11 @@
     "**/.*",
     "*/*spec.js",
     "circle.yml",
+    "vendor-components.json",
     "node_modules",
     "components",
     "package.json",
     "Gruntfile.js",
-    "readme.md",
     "karma.conf.js"
   ]
 }
